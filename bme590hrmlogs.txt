@@ -1,0 +1,6 @@
+INFO 02/19/2018 12:57:02 AM sucessfully imported tkinter and set             PickImportData.filepath
+INFO 02/19/2018 12:57:03 AM succesfully imported pandas and convereted csv file             to pandas DataFrame
+INFO 02/19/2018 12:58:16 AM sucessfully imported tkinter and set         PickImportData.filepath
+INFO 02/19/2018 12:58:17 AM succesfully imported pandas and convereted csv file         to pandas DataFrame
+INFO 02/19/2018 12:58:45 AM sucessfully imported tkinter and set PickImportData.filepath
+INFO 02/19/2018 12:58:45 AM succesfully imported pandas and convereted csv file to pandas DataFrame
