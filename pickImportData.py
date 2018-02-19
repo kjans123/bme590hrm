@@ -1,6 +1,6 @@
 class PickImportData:
 
-    """"class that import csv file via tkinter GUI and converts
+    """"class that imports SINGLE csv file via tkinter GUI and converts
     to pandas DataFrame
 
     :returns: (FilePath)-string that is the file path for csv file

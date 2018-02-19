@@ -1,0 +1,1 @@
+INFO 02/19/2018 01:20:19 PM succesfully imported glob and gathered csv file names
