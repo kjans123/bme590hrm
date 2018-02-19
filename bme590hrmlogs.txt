@@ -7,3 +7,31 @@ INFO 02/19/2018 12:58:45 AM succesfully imported pandas and convereted csv file 
 INFO 02/19/2018 01:02:56 PM succesfully gathered csv file names
 INFO 02/19/2018 01:04:21 PM succesfully imported glob and gathered csv file names
 INFO 02/19/2018 01:11:51 PM succesfully imported glob and gathered csv file names
+INFO 02/19/2018 02:28:14 PM succesfully imported glob and gathered csv file names
+INFO 02/19/2018 02:29:22 PM succesfully imported glob and gathered csv file names
+INFO 02/19/2018 02:30:53 PM succesfully imported glob and gathered csv file names
+INFO 02/19/2018 02:31:23 PM succesfully imported glob and gathered csv file names
+INFO 02/19/2018 02:31:36 PM succesfully imported glob and gathered csv file names
+INFO 02/19/2018 02:31:36 PM succesfully converted test_data1.csv to dataframe
+INFO 02/19/2018 02:31:36 PM succesfully converted test_data2.csv to dataframe
+INFO 02/19/2018 02:31:37 PM succesfully converted test_data3.csv to dataframe
+INFO 02/19/2018 02:31:37 PM succesfully converted test_data4.csv to dataframe
+INFO 02/19/2018 02:31:37 PM succesfully converted test_data5.csv to dataframe
+INFO 02/19/2018 02:31:37 PM succesfully converted test_data6.csv to dataframe
+INFO 02/19/2018 02:31:44 PM succesfully imported glob and gathered csv file names
+INFO 02/19/2018 02:33:14 PM succesfully imported glob and gathered csv file names
+WARNING 02/19/2018 02:33:14 PM pandas package not found
+INFO 02/19/2018 02:34:37 PM succesfully imported glob and gathered csv file names
+DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data1.csv to dataframe
+DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data2.csv to dataframe
+DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data3.csv to dataframe
+DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data4.csv to dataframe
+DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data5.csv to dataframe
+DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data6.csv to dataframe
+INFO 02/19/2018 02:35:33 PM succesfully imported glob and gathered csv file names
+DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data1.csv to dataframe
+DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data2.csv to dataframe
+DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data3.csv to dataframe
+DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data4.csv to dataframe
+DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data5.csv to dataframe
+DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data6.csv to dataframe
