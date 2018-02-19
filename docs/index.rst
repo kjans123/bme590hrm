@@ -1,10 +1,10 @@
-.. BME590 Heart Rate Monitor documentation master file, created by
-   sphinx-quickstart on Mon Feb 19 00:40:15 2018.
+.. BME590HRM documentation master file, created by
+   sphinx-quickstart on Mon Feb 19 11:13:17 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to BME590 Heart Rate Monitor's documentation!
-=====================================================
+Welcome to BME590HRM's documentation!
+=====================================
 
 .. toctree::
    :maxdepth: 2

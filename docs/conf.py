@@ -19,9 +19,9 @@ sys.path.insert(0, os.path.abspath('..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'BME590 Heart Rate Monitor'
-copyright = '2018, Kyle Janson'
-author = 'Kyle Janson'
+project = 'BME590HRM'
+copyright = '2018, kjans123'
+author = 'kjans123'
 
 # The short X.Y version
 version = ''
@@ -102,7 +102,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'BME590HeartRateMonitordoc'
+htmlhelp_basename = 'BME590HRMdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -129,9 +129,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'BME590HeartRateMonitor.tex',
-    'BME590 Heart Rate Monitor Documentation',
-    'Kyle Janson', 'manual'),
+    (master_doc, 'BME590HRM.tex', 'BME590HRM Documentation',
+     'kjans123', 'manual'),
 ]
 
 
@@ -140,9 +139,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'bme590heartratemonitor',
-    'BME590 Heart Rate Monitor Documentation',
-    [author], 1)
+    (master_doc, 'bme590hrm', 'BME590HRM Documentation',
+     [author], 1)
 ]
 
 
@@ -152,10 +150,9 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'BME590HeartRateMonitor',
-    'BME590 Heart Rate Monitor Documentation',
-    author, 'BME590HeartRateMonitor', 'One line description of project.',
-    'Miscellaneous'),
+    (master_doc, 'BME590HRM', 'BME590HRM Documentation',
+     author, 'BME590HRM', 'One line description of project.',
+     'Miscellaneous'),
 ]
 
 
