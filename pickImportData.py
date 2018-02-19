@@ -24,11 +24,19 @@ class PickImportData:
         try:
             from tkinter import Tk
             from tkinter.filedialog import askopenfilename
+            import logging
+            str1 = logging.DEBUG
+            logging.basicConfig(filename="bme590hrmlogs.txt",
+                                format='%(levelname)s %(asctime)s %(message)s',
+                                datefmt='%m/%d/%Y %I:%M:%S %p', level=str1)
             Tk().withdraw()
             filename = askopenfilename()
             self.FilePath = filename
+            logging.info("sucessfully imported tkinter and set \
+PickImportData.filepath")
         except ImportError:
             print("tkinter not imported. Check virtual env is activated")
+            logging.warning("tkinter not found")
 
     def ImportFile(self):
 
@@ -40,8 +48,15 @@ class PickImportData:
 
         try:
             import pandas as pd
+            import logging
+            str1 = logging.DEBUG
+            logging.basicConfig(filename="bme590hrmlogs.txt",
+                                format='%(levelname)s %(asctime)s %(message)s',
+                                datefmt='%m/%d/%Y %I:%M:%S %p', level=str1)
             df = pd.read_csv(self.FilePath, header=None)
             self.outPutArray = df
-            print(df)
+            logging.info("succesfully imported pandas and converted csv file \
+to pandas DataFrame")
         except ImportError:
             print("pandas not found. Check virtual env is activated")
+            logging.warning("pandas not found")
