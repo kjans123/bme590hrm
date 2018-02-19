@@ -35,6 +35,7 @@ class PickImportData:
             logging.info("sucessfully imported tkinter and set \
 PickImportData.filepath")
         except ImportError:
+            import logging
             print("tkinter not imported. Check virtual env is activated")
             logging.warning("tkinter not found")
 
@@ -58,5 +59,6 @@ PickImportData.filepath")
             logging.info("succesfully imported pandas and converted csv file \
 to pandas DataFrame")
         except ImportError:
+            import logging
             print("pandas not found. Check virtual env is activated")
             logging.warning("pandas not found")
