@@ -10,8 +10,6 @@ class PickImportData:
     def __init__(self):
         self.FilePath = None
         self.outPutArray = None
-        self.PickFile()
-        self.ImportFile()
 
     def PickFile(self):
 
