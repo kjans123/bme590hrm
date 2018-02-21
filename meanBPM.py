@@ -5,9 +5,7 @@ class MeanBPM:
         self.meanBPM = None
         self.getMeanBPM()
 
-
     def getMeanBPM(self):
         import pandas as pd
         import numpy as np
         import math as mt
-        
