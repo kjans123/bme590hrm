@@ -52,6 +52,9 @@ PickImportData.filepath")
             logging.basicConfig(filename="bme590hrmlogs.txt",
                                 format='%(levelname)s %(asctime)s %(message)s',
                                 datefmt='%m/%d/%Y %I:%M:%S %p', level=str1)
+            if "csv" not in self.FilePath:
+                logging.warning("csv file not selected")
+                raise ValueError("selected file is not csv")
             df = pd.read_csv(self.FilePath, header=None)
             self.outPutArray = df
             logging.info("succesfully imported pandas and converted csv file \

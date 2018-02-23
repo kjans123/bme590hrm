@@ -8,6 +8,11 @@ def test_pickImportData():
 
 
 def test_correctExcp():
+    from pickImportData import PickImportData
     import pytest
     with pytest.raises(ImportError, message="Expecting ImportError"):
         import randomFunc
+    with pytest.raises(ValueError, message="Expecting ValueError"):
+        testClass2 = PickImportData()
+        testClass2.FilePath = "requirements.txt"
+        testClass2.ImportFile()
