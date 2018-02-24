@@ -51,7 +51,7 @@ def cleanData(input_data_frame):
                 inputVal = float((preVal + nextVal)/2)
                 timeList[i] = inputVal
         logging.debug("success: created cleaned time List ")
-        return(voltageList,timeList)
+        return(voltageList, timeList)
     except ImportError:
         print("pandas not found. Activate virtual env")
         logging.warning("pandas not found")

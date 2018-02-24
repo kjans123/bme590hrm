@@ -7,10 +7,11 @@ def test_cleanData():
     testClass.ImportFile()
     voltage, time = cleanData(testClass.outPutArray)
     for i in range(len(voltage)):
-        assert isinstance(voltage[i], float) == True
-        assert isinstance(time[i], float) == True
-    for i in range(1,len(time)):
+        assert isinstance(voltage[i], float) is True
+        assert isinstance(time[i], float) is True
+    for i in range(1, len(time)):
         assert time[i] != 0
+
 
 def test_correctExcp():
     import pytest
