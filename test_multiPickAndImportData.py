@@ -2,9 +2,12 @@ def test_MultiPickAndImport():
     import pandas as pd
     from multiPickAndImportData import MultiPickAndImportData
     testClass = MultiPickAndImportData()
-    assert testClass.superList == ['test_data1.csv', 'test_data2.csv',
-                                   'test_data3.csv', 'test_data4.csv',
-                                   'test_data5.csv', 'test_data6.csv']
+    setSuperList = set(testClass.superList)
+    testSet = set(['test_data1.csv', 'test_data2.csv',
+                   'test_data3.csv', 'test_data4.csv',
+                   'test_data30.csv', 'test_data5.csv',
+                   'test_data6.csv'])
+    assert setSuperList == testSet
     df2 = pd.read_csv('test_data1.csv', header=None)
     dfArray = df2.values
     dfAnalyze = pd.DataFrame(dfArray, columns=list('AB'))

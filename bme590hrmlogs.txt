@@ -148,3 +148,516 @@ INFO 02/23/2018 12:06:43 PM sucessfully imported tkinter and set PickImportData.
 INFO 02/23/2018 12:06:44 PM succesfully imported pandas and converted csv file to pandas DataFrame
 INFO 02/23/2018 12:13:26 PM sucessfully imported tkinter and set PickImportData.filepath
 WARNING 02/23/2018 12:13:27 PM csv file not selected
+INFO 02/23/2018 08:01:52 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:02:29 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:08:02 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:08:50 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:09:36 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:13:52 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:14:32 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:14:48 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:15:39 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:23:03 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:25:05 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:26:09 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:26:19 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:26:29 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:27:21 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:27:37 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:28:03 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:29:36 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:30:16 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:30:38 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:30:58 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:31:32 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:31:49 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:32:05 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:32:14 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:32:20 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:32:52 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:33:27 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:33:44 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:33:55 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:34:34 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:34:53 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:36:47 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:37:09 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:38:11 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:38:17 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:38:33 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:39:09 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:39:27 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:43:48 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:44:02 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:45:54 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:46:10 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:49:30 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:51:37 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 08:54:50 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:03:55 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:03:55 PM success: import pandas
+DEBUG 02/23/2018 09:03:55 PM success: created cleaned voltage List 
+DEBUG 02/23/2018 09:03:55 PM success: created cleaned time List 
+INFO 02/23/2018 09:25:07 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:25:07 PM success: import pandas
+DEBUG 02/23/2018 09:25:07 PM success: created cleaned voltage List 
+DEBUG 02/23/2018 09:25:07 PM success: created cleaned time List 
+INFO 02/23/2018 09:27:08 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:27:08 PM success: import pandas
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+DEBUG 02/23/2018 09:27:08 PM found non-numerical string in volt list
+DEBUG 02/23/2018 09:27:08 PM output voltage list has 0
+INFO 02/23/2018 09:28:57 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:28:57 PM success: import pandas
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+DEBUG 02/23/2018 09:28:57 PM found non-numerical string in volt list
+DEBUG 02/23/2018 09:28:57 PM output voltage list has 0
+INFO 02/23/2018 09:29:12 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:29:12 PM success: import pandas
+DEBUG 02/23/2018 09:29:12 PM found non-numerical string in volt list
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+DEBUG 02/23/2018 09:29:12 PM output voltage list has 0
+INFO 02/23/2018 09:30:22 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:30:22 PM success: import pandas
+DEBUG 02/23/2018 09:30:22 PM found non-numerical string in volt list
+DEBUG 02/23/2018 09:30:22 PM success: created cleaned voltage List 
+DEBUG 02/23/2018 09:30:22 PM success: created cleaned time List 
+INFO 02/23/2018 09:31:10 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:31:10 PM success: import pandas
+DEBUG 02/23/2018 09:31:10 PM found non-numerical string in volt list
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM output voltage list has 0
+DEBUG 02/23/2018 09:31:10 PM success: created cleaned voltage List 
+DEBUG 02/23/2018 09:31:10 PM success: created cleaned time List 
+INFO 02/23/2018 09:32:07 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:32:07 PM success: import pandas
+DEBUG 02/23/2018 09:32:07 PM found non-numerical string in volt list
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:32:07 PM success: created cleaned voltage List 
+DEBUG 02/23/2018 09:32:07 PM output time list has 0
+DEBUG 02/23/2018 09:32:07 PM success: created cleaned time List 
+INFO 02/23/2018 09:33:19 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:33:19 PM success: import pandas
+DEBUG 02/23/2018 09:33:19 PM found non-numerical string in volt list
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:19 PM success: created cleaned voltage List 
+DEBUG 02/23/2018 09:33:19 PM output time list has 0
+DEBUG 02/23/2018 09:33:19 PM success: created cleaned time List 
+INFO 02/23/2018 09:33:28 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:33:28 PM success: import pandas
+DEBUG 02/23/2018 09:33:28 PM found non-numerical string in volt list
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:28 PM success: created cleaned voltage List 
+DEBUG 02/23/2018 09:33:28 PM output time list has 0
+DEBUG 02/23/2018 09:33:28 PM success: created cleaned time List 
+INFO 02/23/2018 09:33:38 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:33:38 PM success: import pandas
+DEBUG 02/23/2018 09:33:38 PM found non-numerical string in volt list
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM output voltage list has 0
+DEBUG 02/23/2018 09:33:38 PM success: created cleaned voltage List 
+DEBUG 02/23/2018 09:33:38 PM output time list has 0
+DEBUG 02/23/2018 09:33:38 PM success: created cleaned time List 
+INFO 02/23/2018 09:34:07 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/23/2018 09:34:07 PM success: import pandas
+DEBUG 02/23/2018 09:34:07 PM found non-numerical string in volt list
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM output voltage list has 0
+DEBUG 02/23/2018 09:34:07 PM success: created cleaned voltage List 
+DEBUG 02/23/2018 09:34:07 PM success: created cleaned time List 
