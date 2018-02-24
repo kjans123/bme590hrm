@@ -24,13 +24,16 @@ class MultiPickAndImportData:
             logging.basicConfig(filename="bme590hrmlogs.txt",
                                 format='%(levelname)s %(asctime)s %(message)s',
                                 datefmt='%m/%d/%Y %I:%M:%S %p', level=str1)
-            self.superList = glob.glob("*.csv")
+            superList = glob.glob("*.csv")
+            filterList = list(filter(lambda x: x!="standardPattern.csv",
+                              superList))
+            self.superList = filterList
             logging.info("succesfully imported glob \
 and gathered csv file names")
         except ImportError:
             import logging
             print("failed to import glob. Check if package is installed")
-            loggin.warning("glob not found")
+            logging.warning("glob not found")
 
     def ConvertMultiFile(self):
         """"method for converting the list of csv files into list of
