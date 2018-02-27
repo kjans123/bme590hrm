@@ -16,7 +16,6 @@ def test_MultiPickAndImport():
     df3Array = df3.values
     dfAnalyze2 = pd.DataFrame(df3Array, columns=list('AB'))
     print(dfAnalyze2)
-
     df1List = dfAnalyze['B'].tolist()
     df2List = dfAnalyze2['B'].tolist()
     assert df1List == df2List
