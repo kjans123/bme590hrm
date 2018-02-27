@@ -21,7 +21,7 @@ def test_MultiPickAndImport():
     assert df1List == df2List
     for i in range(len(testClass.superList)):
         assert type(testClass.dfList[i]) == pd.core.frame.DataFrame
-        
+
 def test_correctExcp():
     import pytest
     with pytest.raises(ImportError, message="Expecting ImportError"):
