@@ -25,7 +25,7 @@ class MultiPickAndImportData:
                                 format='%(levelname)s %(asctime)s %(message)s',
                                 datefmt='%m/%d/%Y %I:%M:%S %p', level=str1)
             superList = glob.glob("*.csv")
-            filterList = list(filter(lambda x: x!="standardPattern.csv",
+            filterList = list(filter(lambda x: x != "standardPattern.csv",
                               superList))
             self.superList = filterList
             logging.info("succesfully imported glob \

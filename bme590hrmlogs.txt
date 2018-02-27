@@ -1,266 +1,648 @@
-INFO 02/19/2018 12:57:02 AM sucessfully imported tkinter and set             PickImportData.filepath
-INFO 02/19/2018 12:57:03 AM succesfully imported pandas and convereted csv file             to pandas DataFrame
-INFO 02/19/2018 12:58:16 AM sucessfully imported tkinter and set         PickImportData.filepath
-INFO 02/19/2018 12:58:17 AM succesfully imported pandas and convereted csv file         to pandas DataFrame
-INFO 02/19/2018 12:58:45 AM sucessfully imported tkinter and set PickImportData.filepath
-INFO 02/19/2018 12:58:45 AM succesfully imported pandas and convereted csv file to pandas DataFrame
-INFO 02/19/2018 01:02:56 PM succesfully gathered csv file names
-INFO 02/19/2018 01:04:21 PM succesfully imported glob and gathered csv file names
-INFO 02/19/2018 01:11:51 PM succesfully imported glob and gathered csv file names
-INFO 02/19/2018 02:28:14 PM succesfully imported glob and gathered csv file names
-INFO 02/19/2018 02:29:22 PM succesfully imported glob and gathered csv file names
-INFO 02/19/2018 02:30:53 PM succesfully imported glob and gathered csv file names
-INFO 02/19/2018 02:31:23 PM succesfully imported glob and gathered csv file names
-INFO 02/19/2018 02:31:36 PM succesfully imported glob and gathered csv file names
-INFO 02/19/2018 02:31:36 PM succesfully converted test_data1.csv to dataframe
-INFO 02/19/2018 02:31:36 PM succesfully converted test_data2.csv to dataframe
-INFO 02/19/2018 02:31:37 PM succesfully converted test_data3.csv to dataframe
-INFO 02/19/2018 02:31:37 PM succesfully converted test_data4.csv to dataframe
-INFO 02/19/2018 02:31:37 PM succesfully converted test_data5.csv to dataframe
-INFO 02/19/2018 02:31:37 PM succesfully converted test_data6.csv to dataframe
-INFO 02/19/2018 02:31:44 PM succesfully imported glob and gathered csv file names
-INFO 02/19/2018 02:33:14 PM succesfully imported glob and gathered csv file names
-WARNING 02/19/2018 02:33:14 PM pandas package not found
-INFO 02/19/2018 02:34:37 PM succesfully imported glob and gathered csv file names
-DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data1.csv to dataframe
-DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data2.csv to dataframe
-DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data3.csv to dataframe
-DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data4.csv to dataframe
-DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data5.csv to dataframe
-DEBUG 02/19/2018 02:34:38 PM succesfully converted test_data6.csv to dataframe
-INFO 02/19/2018 02:35:33 PM succesfully imported glob and gathered csv file names
-DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data1.csv to dataframe
-DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data2.csv to dataframe
-DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data3.csv to dataframe
-DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data4.csv to dataframe
-DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data5.csv to dataframe
-DEBUG 02/19/2018 02:35:34 PM succesfully converted test_data6.csv to dataframe
-INFO 02/21/2018 02:07:09 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 02:07:43 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 02:42:42 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 02:44:08 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:19:35 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:31:22 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:31:46 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:32:00 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:33:10 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:34:12 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:35:14 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:36:17 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:36:40 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:37:35 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:39:23 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:39:58 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:40:26 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:53:32 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:54:40 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:54:56 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:55:06 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:55:16 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:55:27 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:55:39 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:55:51 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:56:48 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:57:08 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:57:27 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:58:06 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 08:59:53 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:00:15 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:01:33 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:03:00 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:03:53 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:05:05 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:05:22 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:05:43 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:05:59 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:06:38 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:07:52 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:10:32 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:11:10 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:11:28 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:11:39 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:13:02 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:13:30 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:13:53 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:15:05 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:15:24 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:15:34 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:19:41 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:19:55 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:21:01 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:21:16 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:21:52 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:22:20 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:28:48 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:29:10 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:29:59 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:30:30 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:30:44 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:30:59 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:33:34 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:34:26 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:35:07 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:35:20 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:35:43 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:36:20 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:36:32 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:36:43 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 09:36:57 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 10:05:12 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 10:33:06 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 10:35:45 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 10:38:53 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 11:47:50 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 11:49:55 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 11:50:28 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 11:50:48 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 11:51:23 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 11:51:37 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 11:51:59 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/21/2018 11:52:20 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:24:11 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:24:48 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:25:37 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:26:57 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:27:16 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:28:05 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:29:22 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:30:31 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:31:04 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:31:26 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:32:38 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:33:32 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:34:09 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:34:33 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:35:00 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:35:32 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:36:25 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:37:31 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:37:54 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:38:13 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/22/2018 12:39:07 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 11:42:12 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 11:42:27 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 11:43:06 AM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 11:43:27 AM succesfully imported pandas and converted csv file to pandas DataFrame
-WARNING 02/23/2018 12:06:21 PM csv file not selected
-INFO 02/23/2018 12:06:43 PM sucessfully imported tkinter and set PickImportData.filepath
-INFO 02/23/2018 12:06:44 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 12:13:26 PM sucessfully imported tkinter and set PickImportData.filepath
-WARNING 02/23/2018 12:13:27 PM csv file not selected
-INFO 02/23/2018 12:26:07 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 12:29:51 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 12:34:55 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 12:41:00 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 12:56:42 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 12:57:42 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:00:28 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:03:54 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:04:13 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:04:47 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:09:29 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:10:54 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:20:39 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:22:50 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:23:14 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:24:20 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:26:23 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:27:12 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:27:29 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:27:44 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:28:31 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:29:03 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:30:18 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:30:43 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:33:24 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:38:26 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:40:16 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:41:49 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:42:44 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:43:11 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:43:54 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 01:44:43 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 02:03:33 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 02:03:45 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 02:03:55 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 02:04:06 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 02:59:53 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:00:15 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:27:16 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:27:47 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:28:28 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:30:20 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:30:49 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:31:18 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:31:55 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:32:13 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:32:48 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:33:14 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:33:57 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:34:17 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:36:35 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:38:15 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:42:07 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:44:06 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:44:43 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:44:59 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:45:30 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:46:11 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 03:46:34 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:00:45 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:02:08 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:03:04 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:03:38 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:05:07 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:08:07 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:08:25 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:09:58 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:10:32 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:14:04 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:15:36 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:16:07 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:17:00 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:22:24 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:23:35 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:26:31 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:27:26 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:28:05 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:28:35 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:29:00 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:29:28 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:29:38 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:29:53 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:30:20 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:31:03 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:31:25 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:31:51 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:32:52 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:33:08 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:33:51 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:35:55 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:36:16 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:36:52 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:37:00 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:37:12 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:37:23 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:37:46 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:38:45 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:39:19 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:40:52 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:41:17 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:42:48 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:42:58 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:44:00 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:45:48 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:46:56 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:48:47 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:49:32 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:50:33 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:50:48 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:51:20 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:51:57 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:52:21 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:52:43 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:54:19 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:56:09 PM succesfully imported pandas and converted csv file to pandas DataFrame
-INFO 02/23/2018 04:56:42 PM succesfully imported pandas and converted csv file to pandas DataFrame
+
+
+INFO 02/26/2018 02:53:35 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 02:53:35 PM success: imported numpy for meanBPM
+INFO 02/26/2018 02:53:35 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 02:53:35 PM success: import pandas
+DEBUG 02/26/2018 02:53:35 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 02:53:35 PM success: created cleaned time List 
+DEBUG 02/26/2018 02:53:35 PM input data found and normalized
+DEBUG 02/26/2018 02:53:35 PM No user input. Max time range interval set.
+INFO 02/26/2018 02:53:35 PM success: imported numpy for meanBPM
+INFO 02/26/2018 02:53:36 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 02:53:36 PM success: imported statistics for meanBPM
+INFO 02/26/2018 02:53:36 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 02:53:36 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 02:53:36 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 02:53:36 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 02:53:36 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 02:53:36 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 02:53:36 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 02:53:36 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 02:53:36 PM beat times found 33
+INFO 02/26/2018 02:53:36 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 02:53:36 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 02:53:36 PM average bpm is: 74.006
+INFO 02/26/2018 02:53:36 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 02:53:36 PM converted beat times to numpy array
+INFO 02/26/2018 02:53:55 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 02:53:55 PM success: imported numpy for meanBPM
+INFO 02/26/2018 02:53:55 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 02:53:55 PM success: import pandas
+DEBUG 02/26/2018 02:53:55 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 02:53:55 PM success: created cleaned time List 
+DEBUG 02/26/2018 02:53:55 PM input data found and normalized
+DEBUG 02/26/2018 02:53:55 PM No user input. Max time range interval set.
+INFO 02/26/2018 02:53:55 PM success: imported numpy for meanBPM
+INFO 02/26/2018 02:53:56 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 02:53:56 PM success: imported statistics for meanBPM
+INFO 02/26/2018 02:53:56 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 02:53:56 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 02:53:56 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 02:53:56 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 02:53:56 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 02:53:56 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 02:53:56 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 02:53:56 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 02:53:56 PM beat times found 33
+INFO 02/26/2018 02:53:56 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 02:53:56 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 02:53:56 PM average bpm is: 74.006
+INFO 02/26/2018 02:53:56 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 02:53:56 PM converted beat times to numpy array
+INFO 02/26/2018 09:09:08 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:09:08 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:09:08 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:09:08 PM success: import pandas
+DEBUG 02/26/2018 09:09:08 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:09:08 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:09:08 PM input data found and normalized
+DEBUG 02/26/2018 09:09:08 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:09:08 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:09:09 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:09:09 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:09:09 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:09:09 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:09 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:09:09 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:09:09 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:09:09 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:09:09 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:09:09 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:09:09 PM beat times found 33
+INFO 02/26/2018 09:09:09 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:09 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:09:09 PM average bpm is: 74.006
+INFO 02/26/2018 09:09:09 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:09 PM converted beat times to numpy array
+INFO 02/26/2018 09:09:09 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:09:09 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:09:09 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:09:09 PM success: import pandas
+DEBUG 02/26/2018 09:09:09 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:09:09 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:09:09 PM input data found and normalized
+DEBUG 02/26/2018 09:09:09 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:09:09 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:09:09 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:09:09 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:09:09 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:09:09 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:09 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:09:09 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:09:09 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:09:10 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:09:10 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:09:10 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:09:10 PM beat times found 33
+INFO 02/26/2018 09:09:10 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:10 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:09:10 PM average bpm is: 74.006
+INFO 02/26/2018 09:09:10 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:10 PM converted beat times to numpy array
+INFO 02/26/2018 09:09:28 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:09:28 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:09:28 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:09:28 PM success: import pandas
+DEBUG 02/26/2018 09:09:28 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:09:28 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:09:28 PM input data found and normalized
+DEBUG 02/26/2018 09:09:28 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:09:28 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:09:29 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:09:29 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:09:29 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:09:29 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:29 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:09:29 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:09:29 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:09:29 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:09:29 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:09:29 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:09:29 PM beat times found 33
+INFO 02/26/2018 09:09:29 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:29 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:09:29 PM average bpm is: 74.006
+INFO 02/26/2018 09:09:29 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:29 PM converted beat times to numpy array
+INFO 02/26/2018 09:09:29 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:09:29 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:09:29 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:09:29 PM success: import pandas
+DEBUG 02/26/2018 09:09:29 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:09:29 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:09:29 PM input data found and normalized
+DEBUG 02/26/2018 09:09:29 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:09:29 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:09:29 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:09:29 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:09:29 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:09:29 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:29 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:09:29 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:09:29 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:09:30 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:09:30 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:09:30 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:09:30 PM beat times found 33
+INFO 02/26/2018 09:09:30 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:30 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:09:30 PM average bpm is: 74.006
+INFO 02/26/2018 09:09:30 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:09:30 PM converted beat times to numpy array
+INFO 02/26/2018 09:10:00 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:10:00 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:00 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:10:00 PM success: import pandas
+DEBUG 02/26/2018 09:10:00 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:10:00 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:10:00 PM input data found and normalized
+DEBUG 02/26/2018 09:10:00 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:10:00 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:00 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:10:00 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:10:00 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:10:00 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:00 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:10:00 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:10:00 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:10:01 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:10:01 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:10:01 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:10:01 PM beat times found 33
+INFO 02/26/2018 09:10:01 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:01 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:10:01 PM average bpm is: 74.006
+INFO 02/26/2018 09:10:01 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:01 PM converted beat times to numpy array
+INFO 02/26/2018 09:10:01 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:10:01 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:01 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:10:01 PM success: import pandas
+DEBUG 02/26/2018 09:10:01 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:10:01 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:10:01 PM input data found and normalized
+DEBUG 02/26/2018 09:10:01 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:10:01 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:01 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:10:01 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:10:01 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:10:01 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:01 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:10:01 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:10:01 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:10:01 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:10:01 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:10:01 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:10:01 PM beat times found 33
+INFO 02/26/2018 09:10:01 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:01 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:10:01 PM average bpm is: 74.006
+INFO 02/26/2018 09:10:01 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:01 PM converted beat times to numpy array
+INFO 02/26/2018 09:10:18 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:10:18 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:18 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:10:18 PM success: import pandas
+DEBUG 02/26/2018 09:10:18 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:10:18 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:10:18 PM input data found and normalized
+DEBUG 02/26/2018 09:10:18 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:10:18 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:18 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:10:18 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:10:18 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:10:18 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:18 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:10:18 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:10:18 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:10:18 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:10:18 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:10:18 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:10:18 PM beat times found 33
+INFO 02/26/2018 09:10:18 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:18 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:10:18 PM average bpm is: 74.006
+INFO 02/26/2018 09:10:18 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:18 PM converted beat times to numpy array
+INFO 02/26/2018 09:10:18 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:10:18 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:18 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:10:18 PM success: import pandas
+DEBUG 02/26/2018 09:10:18 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:10:18 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:10:18 PM input data found and normalized
+DEBUG 02/26/2018 09:10:18 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:10:18 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:18 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:10:18 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:10:18 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:10:18 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:18 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:10:18 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:10:18 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:10:19 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:10:19 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:10:19 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:10:19 PM beat times found 33
+INFO 02/26/2018 09:10:19 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:19 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:10:19 PM average bpm is: 74.006
+INFO 02/26/2018 09:10:19 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:19 PM converted beat times to numpy array
+INFO 02/26/2018 09:10:37 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:10:37 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:37 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:10:37 PM success: import pandas
+DEBUG 02/26/2018 09:10:37 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:10:37 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:10:37 PM input data found and normalized
+DEBUG 02/26/2018 09:10:37 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:10:37 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:38 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:10:38 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:10:38 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:10:38 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:38 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:10:38 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:10:38 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:10:38 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:10:38 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:10:38 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:10:38 PM beat times found 33
+INFO 02/26/2018 09:10:38 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:38 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:10:38 PM average bpm is: 74.006
+INFO 02/26/2018 09:10:38 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:38 PM converted beat times to numpy array
+INFO 02/26/2018 09:10:38 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:10:38 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:38 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:10:38 PM success: import pandas
+DEBUG 02/26/2018 09:10:38 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:10:38 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:10:38 PM input data found and normalized
+DEBUG 02/26/2018 09:10:38 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:10:38 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:10:38 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:10:38 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:10:38 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:10:38 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:38 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:10:38 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:10:38 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:10:39 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:10:39 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:10:39 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:10:39 PM beat times found 33
+INFO 02/26/2018 09:10:39 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:39 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:10:39 PM average bpm is: 74.006
+INFO 02/26/2018 09:10:39 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:10:39 PM converted beat times to numpy array
+INFO 02/26/2018 09:11:55 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:11:55 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:11:55 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:11:55 PM success: import pandas
+DEBUG 02/26/2018 09:11:55 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:11:55 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:11:55 PM input data found and normalized
+DEBUG 02/26/2018 09:11:55 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:11:55 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:11:55 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:11:55 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:11:55 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:11:55 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:11:55 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:11:55 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:11:55 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:11:56 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:11:56 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:11:56 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:11:56 PM beat times found 33
+INFO 02/26/2018 09:11:56 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:11:56 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:11:56 PM average bpm is: 74.006
+INFO 02/26/2018 09:11:56 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:11:56 PM converted beat times to numpy array
+INFO 02/26/2018 09:11:56 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:11:56 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:11:56 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:11:56 PM success: import pandas
+DEBUG 02/26/2018 09:11:56 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:11:56 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:11:56 PM input data found and normalized
+DEBUG 02/26/2018 09:11:56 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:11:56 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:11:56 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:11:56 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:11:56 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:11:56 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:11:56 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:11:56 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:11:56 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:11:57 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:11:57 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:11:57 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:11:57 PM beat times found 33
+INFO 02/26/2018 09:11:57 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:11:57 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:11:57 PM average bpm is: 74.006
+INFO 02/26/2018 09:11:57 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:11:57 PM converted beat times to numpy array
+INFO 02/26/2018 09:12:03 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:12:03 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:03 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:12:03 PM success: import pandas
+DEBUG 02/26/2018 09:12:03 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:12:03 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:12:03 PM input data found and normalized
+DEBUG 02/26/2018 09:12:03 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:12:03 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:03 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:12:03 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:12:03 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:12:03 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:03 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:12:03 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:12:03 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:12:03 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:12:03 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:12:03 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:12:03 PM beat times found 33
+INFO 02/26/2018 09:12:03 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:03 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:12:03 PM average bpm is: 74.006
+INFO 02/26/2018 09:12:03 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:03 PM converted beat times to numpy array
+INFO 02/26/2018 09:12:03 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:12:03 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:03 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:12:03 PM success: import pandas
+DEBUG 02/26/2018 09:12:03 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:12:03 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:12:03 PM input data found and normalized
+DEBUG 02/26/2018 09:12:03 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:12:03 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:03 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:12:03 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:12:03 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:12:03 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:03 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:12:03 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:12:03 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:12:04 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:12:04 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:12:04 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:12:04 PM beat times found 33
+INFO 02/26/2018 09:12:04 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:04 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:12:04 PM average bpm is: 74.006
+INFO 02/26/2018 09:12:04 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:04 PM converted beat times to numpy array
+INFO 02/26/2018 09:12:11 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:12:11 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:11 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:12:11 PM success: import pandas
+DEBUG 02/26/2018 09:12:11 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:12:11 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:12:11 PM input data found and normalized
+DEBUG 02/26/2018 09:12:11 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:12:11 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:12 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:12:12 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:12:12 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:12:12 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:12 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:12:12 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:12:12 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:12:12 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:12:12 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:12:12 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:12:12 PM beat times found 33
+INFO 02/26/2018 09:12:12 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:12 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:12:12 PM average bpm is: 74.006
+INFO 02/26/2018 09:12:12 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:12 PM converted beat times to numpy array
+INFO 02/26/2018 09:12:12 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:12:12 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:12 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:12:12 PM success: import pandas
+DEBUG 02/26/2018 09:12:12 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:12:12 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:12:12 PM input data found and normalized
+DEBUG 02/26/2018 09:12:12 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:12:12 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:12 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:12:12 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:12:12 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:12:12 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:12 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:12:12 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:12:12 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:12:13 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:12:13 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:12:13 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:12:13 PM beat times found 33
+INFO 02/26/2018 09:12:13 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:13 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:12:13 PM average bpm is: 74.006
+INFO 02/26/2018 09:12:13 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:13 PM converted beat times to numpy array
+INFO 02/26/2018 09:12:34 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:12:34 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:34 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:12:34 PM success: import pandas
+DEBUG 02/26/2018 09:12:34 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:12:34 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:12:34 PM input data found and normalized
+DEBUG 02/26/2018 09:12:34 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:12:34 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:34 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:12:34 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:12:34 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:12:34 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:34 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:12:34 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:12:34 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:12:35 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:12:35 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:12:35 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:12:35 PM beat times found 33
+INFO 02/26/2018 09:12:35 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:35 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:12:35 PM average bpm is: 74.006
+INFO 02/26/2018 09:12:35 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:35 PM converted beat times to numpy array
+INFO 02/26/2018 09:12:35 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:12:35 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:35 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:12:35 PM success: import pandas
+DEBUG 02/26/2018 09:12:35 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:12:35 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:12:35 PM input data found and normalized
+DEBUG 02/26/2018 09:12:35 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:12:35 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:35 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:12:35 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:12:35 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:12:35 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:35 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:12:35 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:12:35 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:12:35 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:12:35 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:12:35 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:12:35 PM beat times found 33
+INFO 02/26/2018 09:12:35 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:35 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:12:35 PM average bpm is: 74.006
+INFO 02/26/2018 09:12:35 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:35 PM converted beat times to numpy array
+INFO 02/26/2018 09:12:45 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:12:45 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:45 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:12:45 PM success: import pandas
+DEBUG 02/26/2018 09:12:45 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:12:45 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:12:45 PM input data found and normalized
+DEBUG 02/26/2018 09:12:45 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:12:45 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:46 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:12:46 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:12:46 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:12:46 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:46 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:12:46 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:12:46 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:12:46 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:12:46 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:12:46 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:12:46 PM beat times found 33
+INFO 02/26/2018 09:12:46 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:46 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:12:46 PM average bpm is: 74.006
+INFO 02/26/2018 09:12:46 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:46 PM converted beat times to numpy array
+INFO 02/26/2018 09:12:46 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:12:46 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:46 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:12:46 PM success: import pandas
+DEBUG 02/26/2018 09:12:46 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:12:46 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:12:46 PM input data found and normalized
+DEBUG 02/26/2018 09:12:46 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:12:46 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:12:46 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:12:46 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:12:46 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:12:46 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:46 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:12:46 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:12:46 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:12:47 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:12:47 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:12:47 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:12:47 PM beat times found 33
+INFO 02/26/2018 09:12:47 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:47 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:12:47 PM average bpm is: 74.006
+INFO 02/26/2018 09:12:47 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:12:47 PM converted beat times to numpy array
+INFO 02/26/2018 09:13:06 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:13:06 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:13:06 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:13:06 PM success: import pandas
+DEBUG 02/26/2018 09:13:06 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:13:06 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:13:06 PM input data found and normalized
+DEBUG 02/26/2018 09:13:06 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:13:06 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:13:06 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:13:06 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:13:06 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:13:06 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:13:06 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:13:06 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:13:06 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:13:07 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:13:07 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:13:07 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:13:07 PM beat times found 33
+INFO 02/26/2018 09:13:17 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:13:17 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:13:17 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:13:17 PM success: import pandas
+DEBUG 02/26/2018 09:13:17 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:13:17 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:13:17 PM input data found and normalized
+DEBUG 02/26/2018 09:13:17 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:13:17 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:13:18 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:13:18 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:13:18 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:13:18 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:13:18 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:13:18 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:13:18 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:13:18 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:13:18 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:13:18 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:13:18 PM beat times found 33
+INFO 02/26/2018 09:13:18 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:13:18 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:13:18 PM average bpm is: 74.006
+INFO 02/26/2018 09:13:18 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:13:18 PM converted beat times to numpy array
+INFO 02/26/2018 09:13:18 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:13:18 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:13:18 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:13:18 PM success: import pandas
+DEBUG 02/26/2018 09:13:18 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:13:18 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:13:18 PM input data found and normalized
+DEBUG 02/26/2018 09:13:18 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:13:18 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:13:18 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:13:18 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:13:18 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:13:18 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:13:18 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:13:18 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:13:18 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:13:19 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:13:19 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:13:19 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:13:19 PM beat times found 33
+INFO 02/26/2018 09:13:19 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:13:19 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:13:19 PM average bpm is: 74.006
+INFO 02/26/2018 09:13:19 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:13:19 PM converted beat times to numpy array
+INFO 02/26/2018 09:20:10 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/26/2018 09:20:10 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:20:10 PM success: imported cleanData for meanBPM
+INFO 02/26/2018 09:20:10 PM success: import pandas
+DEBUG 02/26/2018 09:20:10 PM success: created cleaned voltage List 
+DEBUG 02/26/2018 09:20:10 PM success: created cleaned time List 
+DEBUG 02/26/2018 09:20:10 PM input data found and normalized
+DEBUG 02/26/2018 09:20:10 PM No user input. Max time range interval set.
+INFO 02/26/2018 09:20:10 PM success: imported numpy for meanBPM
+INFO 02/26/2018 09:20:10 PM success: imported scipy-signal for meanBPM
+INFO 02/26/2018 09:20:10 PM success: imported statistics for meanBPM
+INFO 02/26/2018 09:20:10 PM sucess: imported pandas for meanBPM
+INFO 02/26/2018 09:20:10 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:20:10 PM standardPattern file found, imported and normalized
+DEBUG 02/26/2018 09:20:10 PM found index on time list of user time interval. Index: 9999
+DEBUG 02/26/2018 09:20:10 PM found correlation between input data and standard pattern
+DEBUG 02/26/2018 09:20:10 PM found all peaks within user specified time. Num peaks= 136
+DEBUG 02/26/2018 09:20:10 PM found mean of all peaks 0.01371110974201644
+DEBUG 02/26/2018 09:20:10 PM found stdev of all peaks 0.0174831513523369
+DEBUG 02/26/2018 09:20:10 PM beat times found 33
+INFO 02/26/2018 09:20:10 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:20:10 PM average time per beat over specified interval is: 0.8107500000000001 s
+DEBUG 02/26/2018 09:20:10 PM average bpm is: 74.006
+INFO 02/26/2018 09:20:10 PM success: imported numpy for meanBPM
+DEBUG 02/26/2018 09:20:10 PM converted beat times to numpy array
+INFO 02/26/2018 10:33:52 PM succesfully imported pandas and converted csv file to pandas DataFrame
