@@ -23,6 +23,13 @@ def test_meanBPM():
     assert testClassBPM.beatTimes == x
     xn = np.array(x)
     assert np.array_equal(testClassBPM.np_beat_times, xn) is True
+    testClassAb = PickImportData()
+    testClassAb.FilePath = "test_data1.csv"
+    testClassAb.ImportFile()
+    testClassBPMAb = MeanBPM(testClass.outPutArray, 20, "ms")
+    testClassBPMAb.get_mean_bpm()
+    testClassBPMAb.convert_beat_times_list_to_np_array()
+    assert testClassBPMAb.meanBPM == 73753.407
 
 
 def test_correctExcp():

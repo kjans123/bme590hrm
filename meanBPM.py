@@ -2,7 +2,7 @@ class MeanBPM:
 
     """"Class that analyzes raw ECG data (time and voltages) and
 returns average BPM over a user specified interval as well as a numpy array
-of times when a beat occured.
+of times when a beat occured. Also returns number of beats detected.
 
     :param inputDataFrame:  takes as input two-column pandas data frame of ECG
                             data with times and voltages
@@ -13,6 +13,7 @@ of times when a beat occured.
     :param timeUnit: time unit of ECG data (s=seconds, m=minutes,
                      ms=milliseconds)
     :returns meanBPM: returns the average BPM over user specified interval
+    :returns num_beat_times: returns the number of beats detected
     :returns np_beat_times: returns numpy array of times when beats occured
     :raises ImportError: raises error if tkinter, pandas, scipy, numpy or
                          cleanData is not found
@@ -31,6 +32,7 @@ of times when a beat occured.
         self.voltageNorm = None
         self.timeList = None
         self.meanBPM = None
+        self.num_beat_times = None
         self.np_beat_times = None
         self.beatTimes = None
         self.normalize_data()
@@ -198,6 +200,7 @@ Cuts out all peaks that are below the mean plus the stdev divided by 1.5.
         :param timeList: gets the list of all times from the
                          method normalize_data.
         :returns beatTimes: list of all times when a beat occured.
+        :returns num_beat_times: number of beat events detected.
         :raises IndexError: raises error if only one heartbeat is detected
                             in the user specified time interval.
         :raises ImportError: raises error if numpy, scipy or statistics is not
@@ -249,6 +252,7 @@ interval specifed. Please choose longer time interval")
             for i in range(len(high_peaks_list)):
                 beatTimes.append(self.timeList[high_peaks_list[i]])
             logging.debug("beat times found " + str(len(beatTimes)))
+            self.num_beat_times = len(beatTimes)
             self.beatTimes = beatTimes
         except ImportError:
             print("numpy, scipy and/or statistics not found. \
@@ -326,3 +330,20 @@ interval is: " + str(timeMean) + " " + str(self.timeUnit))
         except ImportError:
             print("numpy not found. Check virtual env")
             logging.warning("numpy not found. Check virtual env")
+
+    def detect_abnormal_heart_rate(self):
+        """"method that checks to see if meanBPM is outside of normal
+        range (20 to 250 bpm)
+
+        :param meanBPM: takes as input the calculated mean bpm
+        :returns: print warning to check time units and log entry
+        """
+        import logging
+        str1 = logging.DEBUG
+        logging.basicConfig(filename="bme590hrmlogs.txt",
+                            format='%(levelname)s %(asctime)s %(message)s',
+                            datefmt='%m/%d/%Y %I:%M:%S %p', level=str1)
+        if self.meanBPM <= 20 or self.meanBPM >= 250:
+            print(str(self.meanBPM) + " is an abnormal heart rate. \
+Check entered time units")
+            logging.warning("abnormal heart rate of " + str(self.meanBPM))
