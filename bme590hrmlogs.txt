@@ -165,3 +165,37 @@ DEBUG 02/27/2018 04:33:37 PM average time per beat over specified interval is: 0
 DEBUG 02/27/2018 04:33:37 PM average bpm is: 74.006
 INFO 02/27/2018 04:33:37 PM success: imported numpy for meanBPM
 DEBUG 02/27/2018 04:33:37 PM converted beat times to numpy array
+INFO 02/28/2018 01:09:44 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/28/2018 01:10:33 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/28/2018 01:10:33 PM success: import pandas
+DEBUG 02/28/2018 01:10:33 PM success: created cleaned voltage List 
+DEBUG 02/28/2018 01:10:34 PM success: created cleaned time List 
+INFO 02/28/2018 01:11:21 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/28/2018 01:11:21 PM success: import pandas
+DEBUG 02/28/2018 01:11:21 PM success: created cleaned voltage List 
+DEBUG 02/28/2018 01:11:21 PM success: created cleaned time List 
+INFO 02/28/2018 01:11:59 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/28/2018 01:11:59 PM success: import pandas
+DEBUG 02/28/2018 01:11:59 PM success: created cleaned voltage List 
+DEBUG 02/28/2018 01:11:59 PM success: created cleaned time List 
+INFO 02/28/2018 01:17:39 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/28/2018 01:17:39 PM success: import pandas
+DEBUG 02/28/2018 01:17:39 PM success: created cleaned voltage List 
+DEBUG 02/28/2018 01:17:39 PM success: created cleaned time List 
+DEBUG 02/28/2018 01:17:39 PM max volts: 1.05
+DEBUG 02/28/2018 01:17:39 PM min volts: -0.68
+DEBUG 02/28/2018 01:17:39 PM max time: 27.775
+INFO 02/28/2018 01:18:35 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/28/2018 01:18:35 PM success: import pandas
+DEBUG 02/28/2018 01:18:35 PM success: created cleaned voltage List 
+DEBUG 02/28/2018 01:18:35 PM success: created cleaned time List 
+DEBUG 02/28/2018 01:18:35 PM max volts: 1.05
+DEBUG 02/28/2018 01:18:35 PM min volts: -0.68
+DEBUG 02/28/2018 01:18:35 PM max time: 27.775 s
+INFO 02/28/2018 02:27:15 PM succesfully imported pandas and converted csv file to pandas DataFrame
+INFO 02/28/2018 02:27:15 PM success: import pandas
+DEBUG 02/28/2018 02:27:15 PM success: created cleaned voltage List 
+DEBUG 02/28/2018 02:27:15 PM success: created cleaned time List 
+DEBUG 02/28/2018 02:27:15 PM max volts: 1.05
+DEBUG 02/28/2018 02:27:15 PM min volts: -0.68
+DEBUG 02/28/2018 02:27:15 PM max time: 27.775 s
