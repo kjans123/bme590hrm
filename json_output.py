@@ -3,7 +3,7 @@ class Json_Output:
     previously calculated from ECG data. Once dictionary is created, outputs
     dictionary as JSON file.
 
-    :param filename: takes as input filename of the csv file
+    :param filename: takes as input filename of the csv data file
     :param time_range: takes as input the entered time range of the user
     :param time_unit: takes as input the entered time unit of the user
     :param avg_BPM: takes as input the calculated mean BPM
