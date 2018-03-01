@@ -1,8 +1,8 @@
 class MeanBPM:
 
     """"Class that analyzes raw ECG data (time and voltages) and
-returns average BPM over a user specified interval as well as a numpy array
-of times when a beat occured. Also returns number of beats detected.
+    returns average BPM over a user specified interval as well as a numpy array
+    of times when a beat occured. Also returns number of beats detected.
 
     :param inputDataFrame:  takes as input two-column pandas data frame of ECG
                             data with times and voltages
@@ -41,7 +41,7 @@ of times when a beat occured. Also returns number of beats detected.
 
     def get_standard_pattern(self):
         """"method that gets standard pattern from standardPattern.csv and
-returns voltage values list
+        returns voltage values list
 
         :param: takes as input standardPattern.csv file
         :returns valsUnbiased: list of standard Pattern voltages
@@ -81,8 +81,8 @@ Check virtual env")
 
     def normalize_data(self):
         """"method that normalizes the input data by subtracting the mean and by
-finding the variation for later division. Uses cleanData function
-to output two lists (times and voltages).
+        finding the variation for later division. Uses cleanData function
+        to output two lists (times and voltages).
 
         :param inputDataFrame: takes as input a raw data frame from ECG data.
         :returns voltageListUnbiased: returns an unbiased list of voltages
@@ -124,9 +124,9 @@ ImportFile or multiImportFile")
     @timeRange.setter
     def timeRange(self, timeRange):
         """"method that sets the user input of time interval. If nothing is input,
-the timeRange variable sets to NONE. If NONE is detected
-as the value of the timeRange variable, this set the
-time range interval to the maximum time in the ECG strip.
+        the timeRange variable sets to NONE. If NONE is detected
+        as the value of the timeRange variable, this set the
+        time range interval to the maximum time in the ECG strip.
 
         :param timeRange: takes as input time interval from class input
         :returns timeRange: returns either the user input time range or, if no
@@ -147,7 +147,7 @@ being used of " + str(self.__timeRange))
 
     def get_index_of_interval(self):
         """"method that finds the index of the time interval set from the timeRange
-method.
+        method.
 
         :param timeRange: takes as input the time range variable set from the
                           timeRange method.
@@ -182,12 +182,12 @@ Index: " + str(last_time_index))
 
     def get_beat_times_over_interval(self):
         """"method that gets the index locations and times of every hearbeat over
-the user specified interval. It achieves this via correlation between
-the standard pattern voltages and the ECG voltages. The correlation
-is divided by the variation of the ECG voltage data. Once found,
-all peaks are located. To filter out peaks that are not beat events,
-finds mean of all peaks as well as stdev.
-Cuts out all peaks that are below the mean plus the stdev divided by 1.5.
+        the user specified interval. It achieves this via correlation between
+        the standard pattern voltages and the ECG voltages. The correlation
+        is divided by the variation of the ECG voltage data. Once found,
+        all peaks are located. To filter out peaks that are not beat events,
+        finds mean of all peaks as well as stdev.
+        Cuts out peaks that are below the mean plus the stdev divided by 1.5
 
         :param sdList: retrieves the list of standard pattern voltages from the
                        method get_standard_pattern.
@@ -262,7 +262,7 @@ Check virtual env")
 
     def convert_beat_times_list_to_np_array(self):
         """"converts the list of beat times from get_beat_times_over_interval to
-a numpy array.
+        a numpy array.
 
         :param beatTimes: takes as input the list of beatTimes from
                           get_beat_times_over_interval method.
@@ -287,9 +287,9 @@ a numpy array.
 
     def get_mean_bpm(self):
         """"method that calculates the average bpm from the list of all beat times.
-Does this by finding the difference between every adjacent beat time
-and averaging those times. Depending on user input time unit, converts
-that number into beats per minute.
+        Does this by finding the difference between every adjacent beat time
+        and averaging those times. Depending on user input time unit, converts
+        that number into beats per minute.
 
         :param beatTimes: takes as input the list of all times when a
                           beat occured from get_beat_times_over_interval method

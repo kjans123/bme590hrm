@@ -1,6 +1,6 @@
 class MaxMinVoltsTimeDur:
     """"class that takes as input dataframe with time and voltage columns.
-Analyzes for max and min voltages. Returns maximum on ECG time strip.
+    Analyzes for max and min voltages. Returns maximum on ECG time strip.
 
     :param inputDataFrame: takes as input two-column pandas data frame of ECG
                            data with times and voltages
@@ -21,7 +21,7 @@ Analyzes for max and min voltages. Returns maximum on ECG time strip.
 
     def get_data(self):
         """"method that imports data via cleanData function. Finds max and min
-voltages as well as the maximum time on the ECG strip"
+        voltages as well as the maximum time on the ECG strip"
 
         :param: takes as input a pandas dataframe
         :raises ImportError: raises error if cleanData file is not found
