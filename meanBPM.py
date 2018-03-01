@@ -187,7 +187,7 @@ Index: " + str(last_time_index))
         is divided by the variation of the ECG voltage data. Once found,
         all peaks are located. To filter out peaks that are not beat events,
         finds mean of all peaks as well as stdev.
-        Cuts out all peaks that are below the mean plus the stdev divided by 1.5.
+        Cuts out peaks that are below the mean plus the stdev divided by 1.5
 
         :param sdList: retrieves the list of standard pattern voltages from the
                        method get_standard_pattern.
