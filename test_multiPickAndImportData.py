@@ -20,7 +20,7 @@ def test_MultiPickAndImport():
                    'test_data27.csv', 'test_data28.csv',
                    'test_data29.csv', 'test_data31.csv'])
     assert setSuperList == testSet
-    df2 = pd.read_csv('test_data27.csv', header=None)
+    df2 = pd.read_csv('test_data32.csv', header=None)
     dfArray = df2.values
     dfAnalyze = pd.DataFrame(dfArray, columns=list('AB'))
     df3 = testClass.dfList[25]
@@ -36,4 +36,4 @@ def test_MultiPickAndImport():
 def test_correctExcp():
     import pytest
     with pytest.raises(ImportError, message="Expecting ImportError"):
-        import randomFun
+        import randomFu
