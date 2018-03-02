@@ -23,7 +23,10 @@ def test_MultiPickAndImport():
     df2 = pd.read_csv('test_data32.csv', header=None)
     dfArray = df2.values
     dfAnalyze = pd.DataFrame(dfArray, columns=list('AB'))
-    df3 = testClass.dfList[25]
+    for i in range(len(testClass.superList)):
+        if testClass.superList[i] == "test_data32.csv":
+            cap_index = i
+    df3 = testClass.dfList[cap_index]
     df3Array = df3.values
     dfAnalyze2 = pd.DataFrame(df3Array, columns=list('AB'))
     df1List = dfAnalyze['B'].tolist()
