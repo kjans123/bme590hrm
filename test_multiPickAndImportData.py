@@ -6,16 +6,29 @@ def test_MultiPickAndImport():
     testSet = set(['test_data1.csv', 'test_data2.csv',
                    'test_data3.csv', 'test_data4.csv',
                    'test_data30.csv', 'test_data5.csv',
-                   'test_data6.csv', 'test_data32.csv'])
+                   'test_data6.csv', 'test_data32.csv',
+                   'test_data7.csv', 'test_data8.csv',
+                   'test_data9.csv', 'test_data10.csv',
+                   'test_data11.csv', 'test_data12.csv',
+                   'test_data13.csv', 'test_data14.csv',
+                   'test_data15.csv', 'test_data16.csv',
+                   'test_data17.csv', 'test_data18.csv',
+                   'test_data19.csv', 'test_data20.csv',
+                   'test_data21.csv', 'test_data22.csv',
+                   'test_data23.csv', 'test_data24.csv',
+                   'test_data25.csv', 'test_data26.csv',
+                   'test_data27.csv', 'test_data28.csv',
+                   'test_data29.csv', 'test_data31.csv'])
     assert setSuperList == testSet
-    df2 = pd.read_csv('test_data1.csv', header=None)
+    df2 = pd.read_csv('test_data32.csv', header=None)
     dfArray = df2.values
     dfAnalyze = pd.DataFrame(dfArray, columns=list('AB'))
-    print(dfAnalyze)
-    df3 = testClass.dfList[0]
+    for i in range(len(testClass.superList)):
+        if testClass.superList[i] == "test_data32.csv":
+            cap_index = i
+    df3 = testClass.dfList[cap_index]
     df3Array = df3.values
     dfAnalyze2 = pd.DataFrame(df3Array, columns=list('AB'))
-    print(dfAnalyze2)
     df1List = dfAnalyze['B'].tolist()
     df2List = dfAnalyze2['B'].tolist()
     assert df1List == df2List
@@ -26,4 +39,4 @@ def test_MultiPickAndImport():
 def test_correctExcp():
     import pytest
     with pytest.raises(ImportError, message="Expecting ImportError"):
-        import randomFunc
+        import randomFu

@@ -98,6 +98,7 @@ Check virtual env")
                             datefmt='%m/%d/%Y %I:%M:%S %p', level=str1)
         try:
             import numpy as np
+            import statistics as st
             logging.info("success: imported numpy for meanBPM")
             from cleanData import cleanData
             logging.info("success: imported cleanData for meanBPM")
