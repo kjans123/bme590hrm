@@ -6634,3 +6634,42 @@ DEBUG 03/01/2018 10:58:11 PM max time: 27.775 s
 DEBUG 03/01/2018 10:58:11 PM dictionary for /home/kj123/bme590hrm/test_data1.csv created
 INFO 03/01/2018 10:58:11 PM json package imported
 DEBUG 03/01/2018 10:58:11 PM json file for: /home/kj123/bme590hrm/test_data1.csv created
+INFO 03/01/2018 11:58:31 PM succesfully imported glob and gathered csv file names
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data1.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data10.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data11.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data12.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data13.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data14.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data15.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data16.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data17.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data18.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data19.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data2.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data20.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data21.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data22.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data23.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data24.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data25.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data26.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data27.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data28.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data29.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data3.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data30.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data31.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data32.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data4.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data5.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data6.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data7.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data8.csv to dataframe
+DEBUG 03/01/2018 11:58:32 PM succesfully converted test_data9.csv to dataframe
+DEBUG 03/01/2018 11:58:46 PM diff parser start
+DEBUG 03/01/2018 11:58:46 PM diff parser calculated
+DEBUG 03/01/2018 11:58:46 PM diff: line_lengths old: 1, new: 1
+DEBUG 03/01/2018 11:58:46 PM diff replace old[1:1] new[1:1]
+DEBUG 03/01/2018 11:58:46 PM parse_part from 1 to 1 (to 0 in part parser)
+DEBUG 03/01/2018 11:58:46 PM diff parser end
