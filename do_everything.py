@@ -34,6 +34,7 @@ def main():
         runSingleClassBPM = MeanBPM(runSingleClass.outPutArray, x, y)
         runSingleClassBPM.get_mean_bpm()
         runSingleClassBPM.convert_beat_times_list_to_np_array()
+        runSingleClassBPM.detect_abnormal_heart_rate()
         runSingleClassMM = MaxMinVoltsTimeDur(runSingleClass.outPutArray)
         runSingleClassJSON = Json_Output(runSingleClass.FilePath,
                                          runSingleClassBPM.timeRange, y,
@@ -54,6 +55,7 @@ def main():
             runMultiClassBPM = MeanBPM(df, x, y)
             runMultiClassBPM.get_mean_bpm()
             runMultiClassBPM.convert_beat_times_list_to_np_array()
+            runMultiClassBPM.detect_abnormal_heart_rate()
             runMultClassMM = MaxMinVoltsTimeDur(df)
             runMultiClassJSON = Json_Output(runMultiClass.superList[i],
                                             runMultiClassBPM.timeRange, y,
