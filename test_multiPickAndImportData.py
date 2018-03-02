@@ -23,15 +23,11 @@ def test_MultiPickAndImport():
     df2 = pd.read_csv('test_data32.csv', header=None)
     dfArray = df2.values
     dfAnalyze = pd.DataFrame(dfArray, columns=list('AB'))
-    #print(dfAnalyze)
     df3 = testClass.dfList[25]
-    print (testClass.superList[25])
     df3Array = df3.values
     dfAnalyze2 = pd.DataFrame(df3Array, columns=list('AB'))
-    #print(dfAnalyze2)
     df1List = dfAnalyze['B'].tolist()
     df2List = dfAnalyze2['B'].tolist()
-    #print(df2List)
     assert df1List == df2List
     for i in range(len(testClass.superList)):
         assert type(testClass.dfList[i]) == pd.core.frame.DataFrame
