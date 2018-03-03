@@ -45,7 +45,7 @@ class MeanBPM:
 
         :param: takes as input standardPattern.csv file
         :returns valsUnbiased: list of standard Pattern voltages
-                               minus their mean
+                               minus their variation
         :raises FileNotFoundError: raises error is standardPattern.csv
                                    is not found
         :raises Import Error: raises error if pandas or numpy is not found
@@ -340,10 +340,10 @@ interval is: " + str(timeMean) + " " + str(self.timeUnit))
         :returns: print warning to check time units and log entry
         """
         import logging
-        str1 = logging.DEBUG
+        str2 = logging.DEBUG
         logging.basicConfig(filename="bme590hrmlogs.txt",
                             format='%(levelname)s %(asctime)s %(message)s',
-                            datefmt='%m/%d/%Y %I:%M:%S %p', level=str1)
+                            datefmt='%m/%d/%Y %I:%M:%S %p', level=str2)
         if self.meanBPM <= 20 or self.meanBPM >= 250:
             print(str(self.meanBPM) + " is an abnormal heart rate. \
 Check entered time units")
